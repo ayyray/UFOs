@@ -55,8 +55,9 @@ Although the webpage is easy to use, I have found a drawback. Like typing in an 
 
 I ran into this problem earlier and thought I had messed up my code. So, remember, case sensitivity when it comes to search criteria.
 
+#### Recomendations:
 If I was to go back and find a way to improve this site, I might have a couple of suggestions:
 
-•	After you search and if nothing comes back, I would include a message indicating, “there are no matches given your criteria, but here are similar sightings based off your criteria”.
-•	Include an option for comments when searching. Maybe someone would like to search something more particular, and a lot of the comments have personal excerpts that contain specific encounters.
+- After you search and if nothing comes back, I would include a message indicating, “there are no matches given your criteria, but here are similar sightings based off your criteria”.
+- Include an option for comments when searching. Maybe someone would like to search something more particular, and a lot of the comments have personal excerpts that contain specific encounters.
 
